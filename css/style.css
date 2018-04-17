@@ -1,0 +1,58 @@
+/********Header Homepage********/
+.hero-section {
+  background-image: url("../img/banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: scroll;
+  height: 100%;
+  padding: 23rem 0px;
+  text-align: center;
+  min-width: 700px;
+}
+
+
+footer{
+  background-position: center;
+  background-color: #ffdf05;
+  background-size: auto;
+  padding: 10px;
+}
+
+/********Navigation Bar********/
+.navbar {
+  background: #ffd708;
+  margin: 0;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
+.nav.navbar-nav.navbar-right li a span{
+    color: #474745;
+}
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+#Nav a{
+     color: #ffffff;
+     text-decoration:none;
+}
+
+#Nav a:hover {
+    color: #0b0b0b;
+    text-decoration: underline;
+}
+
+#Footer a{
+     color: #ffffff;
+     text-decoration:none;
+}
+
+#Footer a:hover {
+    color: #0b0b0b;
+    text-decoration: underline;
+}

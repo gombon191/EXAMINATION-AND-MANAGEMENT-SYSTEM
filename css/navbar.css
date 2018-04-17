@@ -1,0 +1,36 @@
+.navbar {
+  background: #ffd708;
+  margin: 0;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
+.nav.navbar-nav.navbar-right li a span{
+    color: #474745;
+}
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+#Nav a{
+     color: #ffffff;
+     text-decoration:none;
+}
+
+#Nav a:hover {
+    color: #0b0b0b;
+    text-decoration: underline;
+}
+
+#Footer a{
+     color: #ffffff;
+     text-decoration:none;
+}
+
+#Footer a:hover {
+    color: #0b0b0b;
+    text-decoration: underline;
+}
